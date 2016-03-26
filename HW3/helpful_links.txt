@@ -1,0 +1,6 @@
+https://piazza.com/class/ijre7x625j92ih?cid=97
+https://d1b10bmlvqabco.cloudfront.net/attach/ijre7x625j92ih/iess72s1p1f1il/im87v4gt3ijh/pan1.JPG
+http://docs.opencv.org/2.4/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html#Mat findHomography(InputArray srcPoints, InputArray dstPoints, int method, double ransacReprojThreshold, OutputArray mask)
+http://ramsrigoutham.com/2014/06/14/perspective-projection-with-homography-opencv/
+http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/
+http://www.learnopencv.com/homography-examples-using-opencv-python-c/
