@@ -4,3 +4,7 @@ http://docs.opencv.org/2.4/modules/calib3d/doc/camera_calibration_and_3d_reconst
 http://ramsrigoutham.com/2014/06/14/perspective-projection-with-homography-opencv/
 http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/
 http://www.learnopencv.com/homography-examples-using-opencv-python-c/
+http://stackoverflow.com/questions/14211340/automatically-cropping-an-image-with-python-pil
+http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_feature2d/py_feature_homography/py_feature_homography.html
+http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_imgproc/py_pyramids/py_pyramids.html
+http://pages.cs.wisc.edu/~csverma/CS766_09/ImageMosaic/imagemosaic.html
