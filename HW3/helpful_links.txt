@@ -8,3 +8,4 @@ http://stackoverflow.com/questions/14211340/automatically-cropping-an-image-with
 http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_feature2d/py_feature_homography/py_feature_homography.html
 http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_imgproc/py_pyramids/py_pyramids.html
 http://pages.cs.wisc.edu/~csverma/CS766_09/ImageMosaic/imagemosaic.html
+http://web.cs.iastate.edu/~cs577/handouts/homogeneous-transform.pdf
